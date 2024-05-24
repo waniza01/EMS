@@ -1,0 +1,14 @@
+export const FOOD_EQUIPMENT_TABLE_COLUMNS = ["ID", "NAME", "COST"];
+export const VENUE_TABLE_COLUMNS = ["ID", "NAME", "PLACE", "COST", "CONTACT"];
+export const BOOKING_TABLE_COLUMNS = [
+  "ID",
+  "EVENT MANAGER",
+  "EVENT TYPE",
+  "VENUE NAME",
+  "VENUE TYPE",
+  "EVENT DATE",
+  "FOOD ITEMS",
+  "EQUIPMENTS",
+  "GUESTS",
+  "EVENT COST",
+];
